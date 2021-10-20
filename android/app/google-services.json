@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981446617024",
+    "project_id": "fruitique-app",
+    "storage_bucket": "fruitique-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981446617024:android:5ca265f99303935e4c0a25",
+        "android_client_info": {
+          "package_name": "com.fruitique.fruitique_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981446617024-pg7pkfbl4p9o365hlnvkt3d0onuafq6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkhUb6F0rWtRTjex4exeClzJtoKKxy6OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981446617024-pg7pkfbl4p9o365hlnvkt3d0onuafq6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

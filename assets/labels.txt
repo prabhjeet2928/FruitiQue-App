@@ -1,0 +1,6 @@
+Fresh Banana
+Rotten Apples
+Rotten Oranges
+Fresh Apples
+Rotten Banana
+Fresh Oranges
